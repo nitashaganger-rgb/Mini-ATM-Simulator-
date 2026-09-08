@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+form {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+select {
+    padding: 8px;
+    font-size: 16px;
+}
+
+input {
+    padding: 8px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
